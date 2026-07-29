@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button_greet">Sapa Aku!</string>
+    <string name="greeting_subtitle">Pemrograman Mobile Android — Minggu 1</string>
+    <string name="greeting_title">Hello World!</string>
+    <string name="input_hint">Masukkan nama kamu</string>
+    <style name="Theme.HelloWorld" parent="Theme.Material3.DayNight.NoActionBar">
+        
+    </style>
+</resources>

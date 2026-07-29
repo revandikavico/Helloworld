@@ -1,0 +1,4 @@
+- [x] Add new colors to `Color.kt`
+- [x] Update `Theme.kt` with new colors and disable dynamic color
+- [x] Verify changes with Compose Preview
+- [x] Create walkthrough

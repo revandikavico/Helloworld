@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_greet
+string greeting_subtitle
+string greeting_title
+string input_hint
+style Theme.HelloWorld
